@@ -1,4 +1,4 @@
-# EmotionDatasetMSR18
+# A Gold Standard for Emotion Annotation in Stack Overflow
 A Gold Standard 4,800 questions, answers, and comments from Stack Overflow, manually annotated for emotions.
 
 ## Fair Use Policy
